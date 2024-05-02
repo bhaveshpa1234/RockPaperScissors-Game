@@ -1,0 +1,1 @@
+This is a basic implementation of the Rock, Paper, Scissors game using HTML, CSS, and JavaScript. Players can choose rock, paper, or scissors, and the computer will randomly select its choice. The game then determines the winner based on the choices made.
